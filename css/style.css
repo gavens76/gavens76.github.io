@@ -1,0 +1,30 @@
+body {
+background-color: #118ab2;
+}
+
+p, label, td {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffd166
+}
+
+
+
+h2 {
+
+    font-family: fantasy;
+    color: #073b4c;
+}
+
+
+table {
+    background-color: #ef476f;
+    margin-top: 20px;
+}
+
+table, tr, td {
+    border: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
